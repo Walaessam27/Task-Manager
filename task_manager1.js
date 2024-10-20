@@ -1,3 +1,9 @@
+// I have used the Node.js-specific parts for reading from terminal on the first commit the file "task_manager1.js"
+// because I have a problem on the browsers and i found this as a solution
+// I tried to make it as the demo we have seen, my try is on the folder "Testing not work well" 
+// I hope that is good for now
+// I commit the file "task_manager1.js" before deadline but I add this notes after it
+
 const readline = require('readline');
 
 const rl = readline.createInterface({
